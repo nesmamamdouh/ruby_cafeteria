@@ -1,1 +1,3 @@
-# rails_cafeteria
+# Cafeteria
+
+ITI, rails cafeteria project

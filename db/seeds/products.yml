@@ -1,0 +1,23 @@
+--- 
+- :price: "23.75"
+  :category: "Hot Drinks"
+  :title: Tea
+  :image_file_name: hotdrink.png
+  :featured: true
+  :available_on: 2017-03-23
+- :price: "28.20"
+  :category: "Hot Drinks"
+  :title: "Coffee"
+  :image_file_name: hotdrink.png
+  :featured: true
+  :available_on: 2017-03-23
+- :price: "22.61"
+  :category: "Soda"
+  :title: "Coke"
+  :image_file_name: hotdrink.png
+  :available_on: 2017-03-23
+- :price: "20.50"
+  :category: "Soda"
+  :title: "Pepsi"
+  :image_file_name: hotdrink.png
+  :available_on: 2017-03-23
