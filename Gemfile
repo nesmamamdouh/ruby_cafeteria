@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.1'
+ruby '2.4.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 4.2.0'
@@ -59,6 +59,10 @@ group :test do
   gem "webmock", "~> 1.11.0"
   gem "webrat"
   gem 'simplecov', :require => false
+end
+
+group :production do
+  gem 'pg'
 end
 
 gem "cancan"
